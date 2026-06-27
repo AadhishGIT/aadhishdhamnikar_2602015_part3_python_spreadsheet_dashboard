@@ -1,4 +1,3 @@
-# aadhishdhamnikar_2602015_part3_python_spreadsheet_dashboard
 # Spreadsheet Data Cleaning, Pivot Analysis and Business Dashboard
 
 ## Student Details
